@@ -4,20 +4,7 @@
 
 ## Clone the Remote Repository
 
-1.	Copy the clone URL from your new repository [ajax](https://github.com/noucampdotorgCSS2020/ajax.git)
-
-1.	Type these commands into your *Git Bash* client:
-
-	```
-	$ cd /<DRIVE>/xampp/htdocs   
-	$ git clone https://github.com/noucampdotorgCSS2020/ajax.git ajax
-	$ cd ajax
-	$ ls or dir
-	$ git status
-
-	```
-
-Check your ``htdocs`` folder.  You should have a new folder called ``ajax`` with some files in it.
+1.	Get the Ajax repository from [here](https://github.com/noucampdotorgCSS2021/ajax/archive/main.zip) and copy into you ``htdocs`` folder.
 
 
 ## Part 1 – Hello Ajax
@@ -45,12 +32,12 @@ Check your ``htdocs`` folder.  You should have a new folder called ``ajax`` with
 
 	Modify the code in ``DropDownAjax.js`` to implement this functionality.
 
-
+<!-- 
 ## Part 3 – Ajax PHP Requests
 
 1.	Examine and then run the code in [http://localhost/Ajax/HelloAjaxAndPHP.html](http://localhost/Ajax/HelloAjaxAndPHP.html) that displays data retrieve from an Ajax request to a PHP program.
 
 1.	Examine and then run the code in [http://localhost/Ajax/AjaxTimesTable.html](http://localhost/Ajax/AjaxTimesTable.html) that displays multiplication tables using Ajax requests to a PHP program.
 
-	Pay particular attention to the code in ``AjaxTimesTable.js``.
+	Pay particular attention to the code in ``AjaxTimesTable.js``. -->
 
