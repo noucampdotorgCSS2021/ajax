@@ -32,12 +32,12 @@
 
 	Modify the code in ``DropDownAjax.js`` to implement this functionality.
 
-<!-- 
+
 ## Part 3 – Ajax PHP Requests
 
 1.	Examine and then run the code in [http://localhost/Ajax/HelloAjaxAndPHP.html](http://localhost/Ajax/HelloAjaxAndPHP.html) that displays data retrieve from an Ajax request to a PHP program.
 
 1.	Examine and then run the code in [http://localhost/Ajax/AjaxTimesTable.html](http://localhost/Ajax/AjaxTimesTable.html) that displays multiplication tables using Ajax requests to a PHP program.
 
-	Pay particular attention to the code in ``AjaxTimesTable.js``. -->
+	Pay particular attention to the code in ``AjaxTimesTable.js``.
 
